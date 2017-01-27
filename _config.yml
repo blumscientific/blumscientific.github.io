@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en"
-title                    : "Academic Publication List"
+title                    : "Marc-Michael Blum - Publication List"
 title_separator          : "-"
-name                     : "Marc-Michael"
-description              : "An amazing website."
+name                     : "Marc-Michael Blum"
+description              : "Academic Publication list of Dr. Marc-Michael Blum"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
